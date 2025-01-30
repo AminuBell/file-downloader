@@ -1,2 +1,2 @@
-# a simple file downloader by Yunux  
-#  https://github.com/Yunuxtech
+# a simple file downloader 
+#  https://github.com/AminuBello
