@@ -1,2 +1,2 @@
 # a simple file downloader 
-#  https://github.com/AminuBello
+#  https://github.com/AminuBell
